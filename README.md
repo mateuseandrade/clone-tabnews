@@ -1,2 +1,2 @@
-# clone-tabnews
+# tabnews
 Implementação do tabnews
